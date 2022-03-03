@@ -1,4 +1,4 @@
-byte i = 0;
+int i = 0x2f;
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
